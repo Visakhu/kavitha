@@ -10,7 +10,7 @@ if os.path.exists("local.env"):.env
 load_dotenv()
 admins = {}
 SESSION_NAME = getenv("SESSION_NAME", "BQACyUpWWVrgtGwXTRJWP3GrOQL-ehBx_ivUBt4vr0KMZXJLVOUMqQa08VENnF09OzcsPRXWRG6dXzH6OyDDZSbdD0-M-tErmbb28LMQcJy6-iIGCKJcTfwCc_ll3RetP3oNDwoCrab8nZJKBAT3AsIXtqTZD0uotmJON0QgsGSugHnpxpaVcNlF8P4f7jw90d3zEPxhWKKrCjvJ79xdaQzkRoZhTYhY262S8dqwaWBWk8OzznBFbxA2hBdcCh9WjOqEy5T4c3x_Fr4Qo7lyKJ4zkBq98XUewosxwyiZ4odA2AAr-IdlQSEIk67oTJHkr14HvMpHyXfdzG75NghOGXrgAAAAATf1s1cA")
-BOT_TOKEN = getenv("BOT_TOKEN","5487702835":"AAGsFL9ZnJWokg4sShUv0vSIxe2vne1QEjY")
+BOT_TOKEN = getenv("BOT_TOKEN","5487702835":"AAEQIkNuAGrnd2XqnahcU_K0eFKu-rgeM3I")
 BOT_NAME = getenv("BOT_NAME", "Rithuubot")
 API_ID = int(getenv("API_ID", "20506966"))
 API_HASH = getenv("API_HASH", "590480bbc0239a949ca4e0f706329560")
